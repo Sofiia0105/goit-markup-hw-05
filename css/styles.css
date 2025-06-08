@@ -744,6 +744,7 @@ img {
     
         .input-icon-container {
             position: relative;
+            margin-bottom: 16px;
         }
     
         .input-field {
@@ -837,8 +838,8 @@ img {
         }
     
         .checkbox-input:checked+.checkbox-label .custom-checkbox {
+            border: none;
             background-color: #404bbf;
-            border-color: #404bbf;
             fill: #fff;
         }
     
